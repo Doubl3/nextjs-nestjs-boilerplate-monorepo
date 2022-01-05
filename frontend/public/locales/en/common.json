@@ -1,0 +1,9 @@
+
+{
+  "change-locale": "Switch to locale",
+  "navigation-page-index": "Go to the index page",
+  "navigation-page-about": "Go to the about page",
+  "api": {
+    "error": "Error getting info from API"
+  }
+}

@@ -1,0 +1,9 @@
+
+{
+  "change-locale": "Changer de langue",
+  "navigation-page-index": "Aller à la page 'index'",
+  "navigation-page-about": "Aller à la page 'About'",
+  "api": {
+    "error": "Erreur de récupération de données provenant de l'API"
+  }
+}

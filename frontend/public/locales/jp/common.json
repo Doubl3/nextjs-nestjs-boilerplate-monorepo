@@ -1,0 +1,9 @@
+
+{
+  "change-locale": "ロケールの変更",
+  "navigation-page-index": "インデックスページへ",
+  "navigation-page-about": "アバウトページへ",
+  "api": {
+    "error": "APIからの情報取得エラー"
+  }
+}
